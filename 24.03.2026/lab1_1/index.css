@@ -1,3 +1,11 @@
+header{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+    background-color: rgba(59, 50, 98, 0.371);
+    color: white;      
+}
+
 h1{
     text-align: center;
     margin-top: 20px;
@@ -29,6 +37,12 @@ footer{
 .row{
     margin-top: 20px;
     background-color:  rgba(59, 50, 98, 0.371);
+    padding: 30px;
+    border-radius: 10px;
+}
+nav.index{
+    margin-top: 20px;
+    background-color: rgba(59, 50, 98, 0.371);
     padding: 30px;
     border-radius: 10px;
 }
